@@ -206,8 +206,8 @@ AQI = max(SI, Noi, Rpi, SPMi)
 ### XGBoost Performance (Best Model)
 
 ```
-✅ Model accuracy on train:  95.2%
-✅ Model accuracy on test:   92.8%
+✅ Model accuracy on train:  99.82%
+✅ Model accuracy on test:   99.56%
 📊 Kappa Score:              0.89
 ```
 
